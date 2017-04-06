@@ -19,4 +19,4 @@
 - HTML
 - CSS
 - JavaScript
-- React
+- D3
