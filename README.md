@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-##### Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/xVopBo.
+##### Objective: Build a CodePen.io app that is functionally similar to [this](https://codepen.io/FreeCodeCamp/full/xVopBo)
 ##### Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
 - User Story: I can see a Force-directed Graph that shows which countries share borders.
 - User Story: I can see each country's flag on its node.
