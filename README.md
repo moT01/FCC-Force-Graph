@@ -1,5 +1,5 @@
 ## FCC-Force-Graph
-##### Force Directed Graph Project for [freecodecamp.com](https://www.freecodecamp.com/challenges/show-national-contiguity-with-a-force-directed-graph)
+##### Force Directed Graph Project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Force-Graph/)
 
 <br/>
